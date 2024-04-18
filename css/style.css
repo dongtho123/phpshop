@@ -376,7 +376,7 @@ ol {
 	text-transform: uppercase;
 	color: #111111;
 	font-weight: 500;
-	display: ;
+	display: 100px;
 	padding: 2px 0;
 	position: relative;
 }
@@ -1113,7 +1113,7 @@ ol {
 }
 
 .filter__controls li:last-child {
-	margin-right: 0;
+	margin-right: 88%;
 }
 
 .product__item {
@@ -2233,6 +2233,7 @@ ol {
 .cart__total__procced {
 	background: #f5f5f5;
 	padding: 40px;
+	text-align: right;
 }
 
 .cart__total__procced h6 {
